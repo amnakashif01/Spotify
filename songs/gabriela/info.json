@@ -1,4 +1,7 @@
 {
     "title":"Gabriela",
-    "Description": "Single album"
+    "Description": "Single album",
+    "songs":[
+        "katseye-gabriela.mp3"
+    ]
 }

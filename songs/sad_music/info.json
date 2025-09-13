@@ -1,4 +1,11 @@
 {
     "title":"Sad Music",
-    "Description": "Sad Music for you"
+    "Description": "Sad Music for you",
+    "songs":[
+        "apocalypse-cas.mp3",
+        "thats_so_true-gracie_abrams.mp3",
+        "the_night_we_met-lord_huron.mp3",
+        "tom_odell-another_love.mp3",
+        "wildflower.mp3"
+    ]
 }

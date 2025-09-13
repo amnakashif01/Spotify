@@ -1,4 +1,7 @@
 {
     "title":"BORN AGAIN",
-    "Description": "Single Album"
+    "Description": "Single Album",
+    "songs":[
+        "lisa-born_again.mp3"
+    ]
 }

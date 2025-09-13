@@ -1,4 +1,13 @@
 {
     "title":"Fun Music",
-    "Description": "Fun Music for you"
+    "Description": "Fun Music for you",
+     "songs":[
+        "ando_riste_compa.mp3",
+        "apocalyptic_echoes.mp3",
+        "balada_para_ti.mp3",
+        "barely_small.mp3",
+        "lento_y_cursi.mp3",
+        "lovers_aftermath.mp3",
+        "sin_rumbo.mp3"
+    ]
 }

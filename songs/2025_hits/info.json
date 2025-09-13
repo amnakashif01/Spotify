@@ -1,4 +1,10 @@
 {
     "title":"Some 2025 Hits",
-    "Description": "Trending 2025 Music"
+    "Description": "Trending 2025 Music",
+    "songs":[
+        "alex_warren-ordinary.mp3",
+        "die_with_a_smile-lady_gaga_and_bruno_mars.mp3",
+        "justin_bieber-daisies.mp3",
+        "katseye-gnarly.mp3"
+    ]
 }

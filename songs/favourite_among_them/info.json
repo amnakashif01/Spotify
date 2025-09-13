@@ -1,5 +1,12 @@
 {
     "title":"Playlist Picks",
-    "Description": "Some favourites among them"
+    "Description": "Some favourites among them",
+     "songs":[
+        "ariana_grande-we_cant_be_friends.mp3",
+        "lana_del_rey-brooklyn_baby.mp3",
+        "lana_del_rey-cinnamon_girl.mp3",
+        "tom_odell-another_love.mp3",
+        "wildflower-billie_eilish.mp3"
+    ]
     
 }

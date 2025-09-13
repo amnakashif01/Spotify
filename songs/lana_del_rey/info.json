@@ -1,4 +1,11 @@
 {
     "title":"Lana Del Rey",
-    "Description": "Lana Playlist"
+    "Description": "Lana Playlist",
+     "songs":[
+        "lana_del_rey-brooklyn_baby.mp3",
+        "lana_del_rey-cinnamon_girl.mp3",
+        "lana_del_rey-diet_mountain_dew.mp3",
+        "lana_del_rey-summertime_sadness.mp3",
+        "lana_del_rey-young_and_beautiful.mp3"
+    ]
 }

@@ -1,4 +1,11 @@
 {
     "title":"Taylor Swift ",
-    "Description": "Playlist for swifties"
+    "Description": "Playlist for swifties",
+    "songs":[
+        "taylor_swift-cardigan.mp3",
+        "taylor_swift-cruel_summer.mp3",
+        "taylor_swift-enchanted.mp3",
+        "taylor_swift-love_story.mp3",
+        "taylor_swift-wildest_dreams.mp3"
+    ]
 }

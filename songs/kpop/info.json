@@ -1,5 +1,11 @@
 {
     "title":"KPOP",
-    "Description": "KPOP Hits"
-    
+    "Description": "KPOP Hits",
+         "songs":[
+        "golden-kpop_demon_hunters.mp3",
+        "i_am_by_ive.mp3",
+        "mic_drop-bts.mp3",
+        "sea-bts.mp3",
+        "thunder-seventeen.mp3"
+    ]
 }
