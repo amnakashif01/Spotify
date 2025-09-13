@@ -63,6 +63,7 @@ async function albums() {
 
       let a = await fetch(`./songs/${folder}/info.json`);
       let response = await a.json();
+      songs=response.songs.map(song=> `songs/${folder}/${song}`)
 
       cardContainer.innerHTML =
         cardContainer.innerHTML +
